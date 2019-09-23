@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"swiper { height: ",[0,400],"; }\nwx-swiper-item wx-image { width: 100%; height: ",[0,400],"; }\n",],undefined,{path:"./pages/index/guide.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/guide.wxml') } }));
